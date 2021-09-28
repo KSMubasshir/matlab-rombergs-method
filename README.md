@@ -1,4 +1,4 @@
-# matlab-rombergs-method
+# rombergs-method
 A MATLAB implementation of Romber's method in numerical analysis to estimate the definite integral
 ## Romberg's Method
 In numerical analysis, [**Romberg's method**](https://en.wikipedia.org/wiki/Romberg%27s_method) (Romberg 1955) is used to estimate the definite integral.
